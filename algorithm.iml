@@ -5,7 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/levelup/chapther1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/levelup/chapther2/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/levelup/chapther3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/levelup/chapther7/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
