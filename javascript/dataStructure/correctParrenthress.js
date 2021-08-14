@@ -14,3 +14,4 @@ function solution(input) {
 
 const str = "(()(()))(()";
 console.log(solution(str));
+console.log("111");
