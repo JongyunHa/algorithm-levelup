@@ -26,3 +26,5 @@ public class classPresident {
         System.out.println(solution(voteResult));
     }
 }
+
+
