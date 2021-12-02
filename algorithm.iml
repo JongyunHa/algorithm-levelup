@@ -6,9 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/levelup/chapter1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/levelup/chapter2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/levelup/chapter3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/levelup/chapter4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/levelup/chapter7/src" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
